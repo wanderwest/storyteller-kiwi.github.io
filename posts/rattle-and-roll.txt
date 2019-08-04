@@ -1,0 +1,14 @@
+﻿.. title: rattle and roll
+.. slug: rattle-and-roll
+.. date: 2015-01-06 08:52:30 UTC+13:00
+.. tags:  Greymouth, Earthquakes 
+.. link: 
+.. description: International Storytelling andy andrew wright story telling teller writer author illustrator storyteller narrative
+.. type: text
+
+Woke up this morning to the house rattling and rolling. At first I wondered what Liz was doing downstairs, as the shaking continued I realised we were in the middle of an earthquake. Another of the joys of living in New Zealand. Apparently there were a few tremors around the centre of the South Island, I have marked them approximately with pink dots on the map. As you can see they were close enough to be felt here in Greymouth.
+
+.. figure:: http://www.storyteller.net.au/blog/galleries/earthquake.jpg
+   :target: http://www.storyteller.net.au/blog/galleries/earthquake.jpg
+   :class: thumbnail
+   :alt: earthquake greymouth

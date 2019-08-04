@@ -1,0 +1,26 @@
+.. title: First Haircut
+.. slug: first-haircut
+.. date: 2014/12/16 11:51:39
+.. tags: Haircuts, Josephine, Clipping 
+.. link: 
+.. description: International Storytelling andy andrew wright story telling teller writer author illustrator storyteller
+.. type: text
+ 
+
+
+Our first haircuts are always a little bit traumatic no less so if you are a puppy. Here is our puppy Josephine after her first haircut.
+
+.. figure:: http://www.storyteller.net.au/blog/galleries/haircut.jpg
+   :target: http://www.storyteller.net.au/blog/galleries/haircut.JPG
+   :class: thumbnail
+   :alt: Haircut
+
+.. figure:: http://www.storyteller.net.au/blog/galleries/haircut01.jpg
+   :target: http://www.storyteller.net.au/blog/galleries/haircut01.JPG
+   :class: thumbnail
+   :alt: Haircut
+   
+Of course I have my own unique take on childhood haircuts, if you want to hear more about my own childhood haircuts then try listening to this short extract from one of my true childhood stories. http://www.storyteller.net.au/sound/wheniwas5.mp3
+
+
+

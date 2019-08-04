@@ -1,0 +1,29 @@
+.. title: Running Barefoot in Korea
+.. slug: Korea
+.. date: 2016-02-10 19:15:00 UTC+13:00
+.. tags: Korea 
+.. link: 
+.. description: International Storytelling andy andrew wright story telling teller writer author illustrator storyteller narrative speech writing presentations
+.. type: text
+
+Some of you will remember Zola Budd a great barefoot runner. As I recently spent a day working with the Nike Design team in Busan Korea, I was reminded of Zola and the wonderful joy of running barefoot as a child growing up in New Zealand. Watching the miles being eaten up as your feet flew across the green green grass, the feel of the steady rhythm where the percussion of your feet meet the beat of your heart. Such a wonderful feeling running barefoot, and so many wonderful stories shared by the Nike Design Team. Now I am on Jeju Island working with the International Schools, such a great group of staff and students. Here are some photos of us all having a great time. There is something infectious about really laughing out loud. 
+
+.. figure:: http://www.storyteller.net.au/blog/galleries/cheers.jpg
+   :target: http://www.storyteller.net.au/blog/galleries/cheers.jpg
+   :class: thumbnail
+   :alt: Andy Wright at Jeju
+
+.. figure:: http://www.storyteller.net.au/blog/galleries/laughs.jpg
+   :target: http://www.storyteller.net.au/blog/galleries/laughs.jpg
+   :class: thumbnail
+   :alt: Andy Wright at Jeju
+
+.. figure:: http://www.storyteller.net.au/blog/galleries/smiles.jpg
+   :target: http://www.storyteller.net.au/blog/galleries/smiles.jpg
+   :class: thumbnail
+   :alt: Andy Wright at Jeju
+
+.. figure:: http://www.storyteller.net.au/blog/galleries/fun.jpg
+   :target: http://www.storyteller.net.au/blog/galleries/fun.jpg
+   :class: thumbnail
+   :alt: Andy Wright at Jeju

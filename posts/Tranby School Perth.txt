@@ -1,0 +1,21 @@
+.. title: Tranby School Perth
+.. slug: Tranby School Perth
+.. date: 2015/05/27 10:51:39
+.. tags: Tranby, Perth
+.. link: 
+.. description: International Storytelling andy andrew wright story telling teller writer author illustrator storyteller 
+.. type: text
+
+
+ 
+I recently had the pleasure of running a series of workshops at Tranby school in Perth. It was a delightful time and some wonderful stories grew out of the experience. I especially loved the story of building a castle out of bricks on the neighbours trampoline, you dont need much imagination to work out what happened next.
+
+Here is a photo from the workshops
+
+.. figure:: http://www.storyteller.net.au/blog/galleries/tranby01.jpeg
+   :target: http://www.storyteller.net.au/blog/galleries/tranby01.jpeg
+   :class: thumbnail
+   :alt: Andy Wright at Tranby
+   
+You can read more here http://www.tranby.wa.edu.au/view/library/visiting-author
+

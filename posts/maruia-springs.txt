@@ -1,0 +1,14 @@
+.. title: Maruia Springs
+.. slug: maruia-springs
+.. date: 2015-02-10 19:15:00 UTC+13:00
+.. tags: Maruia Springs, New Zealand 
+.. link: 
+.. description: International Storytelling andy andrew wright story telling teller writer author illustrator storyteller narrative speech writing presentations
+.. type: text
+
+Hope springs eternal and so do the hot waters of New Zealand. 
+
+.. figure:: http://www.storyteller.net.au/blog/galleries/maruia.jpg
+   :target: http://www.storyteller.net.au/blog/galleries/maruia.jpg
+   :class: thumbnail
+   :alt: Maruia
